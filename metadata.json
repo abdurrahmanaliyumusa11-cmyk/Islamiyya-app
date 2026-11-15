@@ -1,0 +1,6 @@
+{
+  "name": "Umuriddin Islamiyya",
+  "description": "Student Record Management App for Umuriddin Islamiyya Primary School, Zango Marikita, Kano, Nigeria",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
